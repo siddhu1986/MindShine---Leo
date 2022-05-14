@@ -1,0 +1,367 @@
+hi Siddhartha,
+
+Thanks for applying for the project.
+
+Your experience looks great. Are you still interested in the project??
+1:05 PM
+
+
+I am not so technical, so it is not so clear to me what system we should be using, however, I can tell you what would be ideal...
+
+1. We use Webflow. This is our site www.mindshine.app. In a perfect world, I would host this form on the site. We could also however, do a sub-domain, if we need to. e.g form.mindshine.app.
+
+2. It is not yet so clear to me what questions we should be asking. In a perfect world I would be able to add questions myself. I can read html, css and JS more or less fine, so if we can somehow arrange it so I can see it, I can always copy, paste and edit (assuming we cannot use Webflow or some other CMS).
+
+1:08 PM
+
+
+these are the 4 screens as they stand at the moment.
+1:09 PM
+
+
+
+Leo (1) (1).pdf
+1:09 PM
+Hi Leo, sorry just came online
+1:22 PM
+
+Let me check, thanks
+1:22 PM
+
+I checked yes I am interested ￼ Let me know when we can discuss, thanks!
+1:28 PM
+
+L
+
+i am here!
+1:28 PM
+Great !
+1:29 PM
+
+So, for the CMS itself, I could have something like this:
+1:29 PM
+
+https://aditechsolutions.com/sid/luke/admin/login.php
+user: sid
+pass: todayisaday
+1:30 PM
+
+L
+
+awesome, well if we can do a CMS that would be perfect
+1:31 PM
+great, if you login above and go to CMS, e.g.
+1:31 PM
+
+you can see you can create rich text
+1:31 PM
+
+L
+
+i have just logged in
+1:31 PM
+And, also you can see you can create questions and answers
+1:31 PM
+
+Its just a small project I did for a client recently, (Google Forms Similar), but you can get an idea
+1:32 PM
+
+L
+
+sure
+1:32 PM
+The questions that you create you can see on: https://aditechsolutions.com/sid/luke/
+1:32 PM
+
+L
+
+the most important thing for us, is that the form has logic. i.e what you put in determiens what you get out
+1:32 PM
+along with the answers.
+Right
+1:32 PM
+
+yeah, I can have condition based logic, would you be able to give me an example?
+1:33 PM
+
+of a condition based flow?
+1:33 PM
+
+L
+
+yep. 1 min
+1:33 PM
+thanks!
+1:33 PM
+
+L
+
+Screen 1 asks you what you want to work on.
+
+Screen 2 then tells you how many other people choose this option.
+1:35 PM
+
+
+￼
+Screenshot 2022-05-12 at 10.05.04.png
+1:35 PM
+
+
+￼
+Screenshot 2022-05-12 at 10.05.13.png
+1:35 PM
+
+
+we can use fixed data, so if they choose Option 3 (Better Sleep), we recall the % who choose better sleep, and serve it on Screen 2
+1:36 PM
+
+
+without having to actually do the maths. We already have about 100,000 signups, so we have good data
+1:36 PM
+I see, a question, the calculations will be based on the future applications which are made through this App, right? and not using data from previous 100000 applications?
+1:37 PM
+
+L
+
+no, we will use the data from the previous applicants, so we do not need to do any actual maths.
+1:38 PM
+
+
+i.e IF they Choose Option A, recall stastistic B from a list
+1:38 PM
+I see, for the old applications, can I see a sample set of records, say 10 or so?
+1:38 PM
+
+L
+
+this screen asks for Mood.
+1:39 PM
+
+
+￼
+Screenshot 2022-05-12 at 10.09.24.png
+1:39 PM
+
+
+￼
+Screenshot 2022-05-12 at 10.09.50.png
+1:40 PM
+
+
+here are the volumes on previous answers
+1:40 PM
+Ah I see, so you have the statistics
+1:40 PM
+
+great
+1:40 PM
+
+L
+
+yep
+1:40 PM
+
+
+Example 2:
+
+We will ask you some questions about your desires, and then depending on how you answer it we will serve you a link.
+
+Q: What do you want to work on
+A: Better Sleep
+
+THEN > Here is a link that will you achieve better sleep
+1:40 PM
+
+
+So the overall point is this:
+
+1. Marketing drives people to this landing page.
+2. We ask them some questions, and develop an answer based on their questions.
+3. There is an email gate.
+4. Once they have signed up, we show. / email them the answer.
+1:41 PM
+right, as for the e.mail, what are you using?
+1:42 PM
+
+L
+
+￼
+Screenshot 2022-05-12 at 10.15.13.png
+1:45 PM
+
+
+email: not sure, we have no sorted this out, but we have mandrill and mailchimp, or we could use a system email... OR we could even do it manually at the beginning.
+1:45 PM
+right, no problem. Yes, I think I can handle this for you ￼
+1:46 PM
+
+I can show the work stage-wise , and make changes if needed based on your feedbacks
+1:47 PM
+
+L
+
+super
+1:48 PM
+
+
+i am planning to fully develop the mob design (and questions) in Figma, and also draw out all the logic so it is easy to understand.
+1:49 PM
+Sure, that would be great
+1:49 PM
+
+L
+
+how long do you think this would take you?
+1:52 PM
+Once you have confirmed the designs, I can have this done in around 3-4 working days, does that work for you?
+1:52 PM
+
+L
+
+sure.
+1:52 PM
+great
+1:52 PM
+
+L
+
+how do we move forward??
+1:53 PM
+So you can award me the project and put the milestone (Escrow/Security Deposit), and we should be good to go!
+1:53 PM
+
+￼
+freelancerchat
+Leo B. created a milestone
+Milestone: 'Project milestone part 1'
+Amount: £ 100.00 GBP
+1:55 PM
+￼
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+This project has a budget of £270.00 GBP and you will be charged a project commission of £27.00 GBP on accept.
+Accept
+1:55 PM
+L
+
+done!
+1:55 PM
+great, thanks!
+1:55 PM
+
+Let me know when you have the designs, meanwhile I can work on the other parts, thanks!
+1:56 PM
+
+￼
+freelancerchat
+Accepted!
+You're all set to start working
+3:14 PM
+L
+
+super. I wil send you over stuff ASAP.
+3:20 PM
+Great
+3:20 PM
+
+L
+
+I have been thinking about the emails... we can do this using Mailchimp, and maybe something like Zapier.
+
+I.e If they complete the form, put them into Malichimp audience. If they have answer combo A, then add tag B... if they have answer combo B, then add tag C... and so on.
+5:39 PM
+Sure, yeah
+5:40 PM
+
+L
+
+￼
+Page 2.png
+8:43 PM
+
+
+￼
+Page 3.png
+8:43 PM
+
+
+Here are the latest versions of the pages. These are not 100% final, but the structure and logic is somewhat sorted.
+8:43 PM
+
+
+￼
+Page 1.png
+8:43 PM
+
+
+The idea is that Page 1 is the questionnaire.
+
+Page 2 has some dynamic content (based on your answers on Page 1. Then some fixed content. Then a lead gen form.
+
+When you complete the lead gen form, you are added with a tag to Mailchimp, also based on your answers to the questionnaire.
+8:45 PM
+
+
+Here is the basic logic. I can give you more details, but let me know if this is making any kind of sense.
+8:45 PM
+
+
+
+Logic.pdf
+8:45 PM
+MAY 13, 2022
+Hi Leo, thanks for the detailed info ! Yes it makes sense, I was wondering if you could explain a little about (4) Preferred Pronouns?
+2:37 AM
+
+L
+
+Yep, this is basically - what is your gender. Male, Female, No comment.
+
+It is not really so important to store this data. I put it in there so that we can be inline with the onboarding of the main product.
+2:55 PM
+
+
+Here is the graph
+3:14 PM
+
+
+￼
+Graph.png
+3:14 PM
+
+
+here is the dynamic text.
+4:12 PM
+
+
+
+dynamic text.rtf
+4:12 PM
+
+
+Here is the figma file.
+please note I am not very good with Figma, so the padding, spacing and alignment is not perfect.
+
+However, the content is all there, with the fonts and colours etc.
+4:14 PM
+
+
+https://www.figma.com/file/nJswWODmQKeFM3HZwmkqcp/Leo?node-id=0%3A1
+4:14 PM
+
+
+Logic on Mindset Questions:
+
+Each slider should have 100 incremental positions. 0 on the left. 100 on the right.
+
+The "winner" is whichever qustion has the highest score.
+
+The winner determines what tag is added to the contact in Mailchimp.
+
+Please note for questions 3 and 5 the score = 100 - The number they choose.
+
+For questions 1,2,4 the Score = The number they choose
+4:19 PM
+
+
+- if 2 statements have the same score, take the one that comes first in the order of the statements
